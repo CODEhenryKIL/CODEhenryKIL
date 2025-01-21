@@ -1,3 +1,7 @@
+• I'm currently working on something cool!
+• I'm currently learning with help from docs.github.com
+• Ask me about GitHub
+
 #Profile
 ---
 * 이름: 길민규 / Henry.KIL
