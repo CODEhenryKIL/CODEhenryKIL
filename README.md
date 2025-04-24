@@ -4,7 +4,6 @@
 * 학교: 서울과학기술대학교 /Seoul National University of Science and Technology
 * 전공: 벤처경영학 / Venture Management
 * 복수전공: 컴퓨터공학 / Computer Science & Engineering
-* 연계전공: 빅데이터 경영 공학 / Big Data Management Engineering Program
 * 학번: 22학번
 * GPA: 4.26 / 4.5
 * 소속: STAI team
