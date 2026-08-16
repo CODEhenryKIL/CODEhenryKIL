@@ -6,7 +6,8 @@
 
 - **서울과학기술대학교 · 벤처경영학과·컴퓨터공학과** *(GPA 4.26 / 4.5)*
 - **해바캄 · Tech PM** *(2025.12–현재)*
-- **Google Student Ambassador**
+- **브래인LAB · AI Research Intern** *(Medical Sensing · 2026.02–현재)*
+- **Google Student Ambassador** *(2026.08–현재)*
 - **서울과기대 액티비티 동아리 · 운영진** *(2023–현재)*
 
 ## Leadership & Activities
