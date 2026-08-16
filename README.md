@@ -36,7 +36,7 @@
 | Project | Summary |
 | --- | --- |
 | **AI Portfolio Research** | XBRL 재무 데이터·RankNet 기반 AI 주식 포트폴리오 연구 |
-| **DialAI** | AI 전화 예약 에이전트 · UX 설계·프로토타입·피치덱 · [Live](https://dialai-azure.vercel.app) |
+| **DialAI** | AI 전화 예약 에이전트 · UX 설계·프로토타입·피치덱 |
 | **ARA** | RAG 기반 AI 학습 보조 서비스 · 기획·MVP·IR |
 
 ## Selected Impact
