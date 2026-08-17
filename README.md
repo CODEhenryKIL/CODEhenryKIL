@@ -8,7 +8,18 @@
 - **해바캄 · Tech PM** *(2025.12–현재)*
 - **메디센싱 · AI Research Intern** *(브래인LAB Spin-off · 2026.02–현재)*
 - **Google Student Ambassador** *(2026.08–현재)*
+- **TeX-Corps 3기 1차년도 · 실험실창업탐색팀** *(한양대 실험실창업혁신단 · Washington, D.C. · 2026.07.05–07.26)*
 - **서울과기대 액티비티 동아리 · 운영진** *(2023–현재)*
+
+## Programs
+
+| Period | Program |
+| :--: | --- |
+| 2026.08–현재 | **Google Student Ambassador** |
+| 2026.07.05–07.26 | **TeX-Corps 3기 1차년도 · 실험실창업탐색팀** — 한양대 실험실창업혁신단 · KIC Washington DC·GWU |
+| 2025.08.06–08.22 | **국민대 초기투자 심사역 양성과정** |
+| 2025.05–06 | **KDB STARTUP VILLAGE CHALLENGE** |
+| 2023.09–12 | **KDB 스타트업 프로그램** — 학교 대표팀 |
 
 ## Leadership & Activities
 
