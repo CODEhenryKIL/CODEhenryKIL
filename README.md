@@ -28,6 +28,7 @@
 
 | Project | Summary |
 | --- | --- |
+| [**DCASE 2026 Task 1**](https://dcase.community/challenge2026/task-heterogeneous-audio-classification-results) | 이질적 오디오 분류 · 공식 9위 · hF 0.692 |
 | **AI Portfolio Research** | XBRL 재무 데이터·RankNet 기반 AI 주식 포트폴리오 연구 |
 | **DialAI** | AI 전화 예약 에이전트 · UX 설계·프로토타입·피치덱 |
 | **ARA** | RAG 기반 AI 학습 보조 서비스 · 기획·MVP·IR |
