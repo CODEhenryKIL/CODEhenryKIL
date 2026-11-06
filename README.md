@@ -5,7 +5,7 @@
 ## Now
 
 - **서울과학기술대학교 · 벤처경영학과·컴퓨터공학과** *(GPA 4.26 / 4.5)*
-- **해바캄 · Tech PM** *(2025.12–현재)*
+- **해바캄 · Problem Solver** *(2025.12–현재)*
 - **메디센싱 · AI Research Intern** *(브래인LAB Spin-off · 2026.02–현재)*
 - **Google Student Ambassador** *(2026.08–현재)*
 - **TeX-Corps 3기 1차년도 · 실험실창업탐색팀** *(한양대 실험실창업혁신단 · Washington, D.C. · 2026.07.05–07.26)*
